@@ -12,13 +12,6 @@
 
 <br>
 
-<!-- SNAKE EATING CONTRIBUTIONS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/x0VIER/x0VIER/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -171,10 +164,10 @@ const x0VIER: ITSpecialist = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x0VIER&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7&sideLabels=00F7F7&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
-<!-- LANGUAGE STATS & ACTIVITY -->
+<!-- LANGUAGE STATS & CONTRIBUTION GRAPH -->
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0VIER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=10&custom_title=💻%20Most%20Used%20Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=x0VIER&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&custom_title=⏱️%20Coding%20Activity" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x0VIER&theme=tokyonight" />
 </p>
 
 <!-- CONTRIBUTION GRAPH -->
@@ -182,6 +175,9 @@ const x0VIER: ITSpecialist = {
 
 <!-- GITHUB TROPHIES -->
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=x0VIER&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
+
+<!-- PROFILE DETAILS CARD -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0VIER&theme=tokyonight" />
 
 </div>
 
@@ -347,12 +343,6 @@ const x0VIER: ITSpecialist = {
 </tr>
 </table>
 
-### 🎖️ GitHub Achievements Unlocked
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0VIER&theme=tokyonight" />
-</p>
-
 </div>
 
 <br>
@@ -492,11 +482,6 @@ cal "https://calendly.com/your-handle"
 <img src="https://img.shields.io/badge/Building-Enterprise_Automation_Framework-00F7F7?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Learning-Kubernetes_Advanced_Patterns-FF6D00?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Contributing-Open_Source_Projects-00FF00?style=for-the-badge&labelColor=0D1117" />
-
-### 📈 Profile Statistics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x0VIER&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x0VIER&theme=tokyonight" />
 
 ### 🔥 Streak Stats
 
